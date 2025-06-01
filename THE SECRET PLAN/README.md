@@ -1,9 +1,8 @@
 🔐 THE SECRET PLAN — Writeup
 
-AUTHOR: Ammara Qazi
-CATEGORY: Crypto
-LEVEL: Medium
-Flag: ACM{Aurangzeb}
+AUTHOR: Ammara Qazi, CATEGORY: Crypto, LEVEL: Medium
+
+**Flag: ACM{Aurangzeb}**
 
 CHALLENGE OVERVIEW:
 
